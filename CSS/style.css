@@ -1,0 +1,158 @@
+
+body {
+  height: 100%;
+  width: 100%;
+  /* background-color: #40514E; */
+  text-align: center;
+  /* E1FFEE */
+}
+
+.top-container {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color :#66BFBF;
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color :#66BFBF;
+  line-height: 2;
+}
+
+h3 {
+  margin: 0;
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+
+p {
+  color :#40514E;
+  margin: 0;
+  font-family: 'Merriweather', serif;}
+
+.pro {
+  text-decoration: underline;
+}
+hr {
+  margin: 0;
+}
+.about {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  text-align: center;
+}
+
+.taskbar {
+  width: 100%;
+  position: relative;
+  text-align: right;
+  right: 100px;
+}
+.project-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:justify;
+  line-height: 2;
+}
+
+.project_img {
+  width: 25%;
+  float:right;
+}
+.hobby_img {
+  width: 25%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.watermark_img {
+  width: 18%;
+  float:right;
+  margin-left:2rem;
+}
+.stock_img {
+  width: 25%;
+  float:left;
+  margin-right:2rem;
+}
+.math_img {
+  width: 15%;
+  float:left;
+  margin-right:2rem;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+
+
+.btn {
+	background:linear-gradient(to bottom, #66bfbf 5%, #75e0e0 100%);
+	background-color:#66bfbf;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #75e0e0 5%, #66bfbf 100%);
+	background-color:#75e0e0;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 6px;
+  border-bottom: none;
+  color: lightgrey;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  margin: 0;
+  text-decoration: none;
+}
